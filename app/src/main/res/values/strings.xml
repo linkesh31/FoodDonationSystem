@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FoodDonationSystem</string>
+    <string-array name="category_array">
+        <item>Dairy</item>
+        <item>Breads</item>
+        <item>Spreads</item>
+        <item>Fruits</item>
+        <item>Vegetables</item>
+        <item>Meat and Poultry</item>
+        <item>Seafood</item>
+        <item>Grains and Cereals</item>
+        <item>Sweets and Desserts</item>
+    </string-array>
+
+    <string-array name="filter_array">
+        <item>All</item>
+        <item>Donate</item>
+        <item>Takeaway</item>
+    </string-array>
+
+    <string-array name="filter_options">
+        <item>All</item>
+        <item>Donated</item>
+        <item>Taken Away</item>
+    </string-array>
+</resources>
